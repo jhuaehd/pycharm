@@ -9,6 +9,9 @@ from selenium.webdriver.chrome.service import Service
 PATH = Service("C:\Program Files (x86)\chromedriver.exe")
 driver = webdriver.Chrome(service=PATH)
 driver.get("https://techwithtim.net")
+print("This page is : ", driver.title)
+
+driver.close()
 
 
 # fname = input()
