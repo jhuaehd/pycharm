@@ -1,0 +1,35 @@
+MODULE 1. SOFTWARES
+1. Software - collection of computer programs that helps us to perform a task.
+2. Types of software
+	a. System Software
+	    - device drivers, Operating systems, servers, utilities
+	b. Programming software
+        - compilers, debuggers, interpreters
+	c. Application software
+		- Web app, Mobile app, Desktop app
+
+3. SOFTWARE TESTING – a part of software development process.
+                 - An activity to detect and identify the defects in the software. The objective of testing is to release quality product to the client.
+4. SOFTWARE QUALITY – bug free,  delivered on time, within the budget, meet requirements and expectations, maintainable
+
+5. PROJECT VS PRODUCT
+    If software application is developed for specific customer based on the requirement then it is called PROJECT.
+    If software application developed for multiple customers based on market requirements then it called PRODUCT.
+
+6. WHY DO WE NEED TESTING ? –  to ensure software don’t have any bugs, to ensure it will satisfy the requirements and expectation of the client and deliver the software in exact time.
+
+7. ERROR, BUG AND ERROR
+        - an incorrect human action is ERROR, human mistake
+        - unwanted feature is BUG, mismatch feature, defect
+        - something that is not working in the application after the deployment to client
+
+8. WHY SOFTWARE HAS BUGS
+        - miscommunication or no communication
+        - software complexity
+        - Programming errors
+        - Changing in requirements
+        - lack of skilled testers
+
+9.
+		
+
