@@ -59,4 +59,20 @@ MODULE 1. SOFTWARES
         - if there is defect in requierement that will be continue in later phases.
         - Total invesment is more because time taking for rework on defect is time consuming which leads
           to high invesment
-        - testing will start only after coding
+        - testing will start only after coding / 1 phase of testing
+
+11. SPIRAL MODEL
+        a. Planning (Requirement analysis)
+        b. Risk Analysis ( Prototype )
+        c. Engineering and Execution (Development and Testing)
+        d. Evaluation (Customer Evaluation and Feedback)
+        - is an iterative model
+        - overcome drawbacks of waterfall model
+        - we follow spiral model whenever there is dependency on the modules
+        - in every cycle new software will be released to customer(software version)
+        - software will be releasesd in multiple version. So it also called "VERSION CONTROL MODEL."
+
+    Advantages:
+        - Testing is done in every cycle, before going to the next cycle
+        - Customer will get to use the software for every module
+        - requirement changes are allowed after every cycle before going to the next cycle
