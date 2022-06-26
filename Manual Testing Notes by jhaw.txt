@@ -1,7 +1,7 @@
 MODULE 1. SOFTWARES
 1. Software - collection of computer programs that helps us to perform a task.
 2. Types of software
-	a. System Software
+	a. S Software
 	    - device drivers, Operating systems, servers, utilities
 	b. Programming software
         - compilers, debuggers, interpreters
@@ -13,8 +13,8 @@ MODULE 1. SOFTWARES
 4. SOFTWARE QUALITY – bug free,  delivered on time, within the budget, meet requirements and expectations, maintainable
 
 5. PROJECT VS PRODUCT
-    If software application is developed for specific customer based on the requirement then it is called PROJECT.
-    If software application developed for multiple customers based on market requirements then it called PRODUCT.
+        If software application is developed for specific customer based on the requirement then it is called PROJECT.
+        If software application developed for multiple customers based on market requirements then it called PRODUCT.
 
 6. WHY DO WE NEED TESTING ? –  to ensure software don’t have any bugs, to ensure it will satisfy the requirements and expectation of the client and deliver the software in exact time.
 
@@ -30,6 +30,33 @@ MODULE 1. SOFTWARES
         - Changing in requirements
         - lack of skilled testers
 
-9.
-		
+9. SDLC(SOFTWARE DEVELOPMENT LIFE CYCLE)
+        - is a process used by software industry to design, develop and test softwares
+        - in a company there should have 3P's (People, Process, Product) to develop the software
+    Hierarchy :
+        a. Requirements Analysis
+        b. Design
+        c. Development
+        d. Testing
+        e. Maintenance
 
+10. WATERFALL MODEL
+        - old and traditional model
+    Hierarchy :
+        a. Requirement analysis (includes Software requirements from the client/user)
+        b. System Design(low-level design
+        c. Implementation
+        d. Testing
+        e. Deployment
+        f. Maintenance
+    Advantages :
+        - Quality of the product will be good
+        - Since requirement changes are not allowed, chances of finding bugs will be less
+        - Initial investment is less since the testers are hired at the later stages
+        - Preferred for small projects where requierements are freezed
+    Disadvantages :
+        - Requirement changes are not allowed
+        - if there is defect in requierement that will be continue in later phases.
+        - Total invesment is more because time taking for rework on defect is time consuming which leads
+          to high invesment
+        - testing will start only after coding
