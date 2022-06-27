@@ -76,3 +76,47 @@ MODULE 1. SOFTWARES
         - Testing is done in every cycle, before going to the next cycle
         - Customer will get to use the software for every module
         - requirement changes are allowed after every cycle before going to the next cycle
+
+    Disadvantages :
+        - Requirement changes are not allowed during or in between the cycle
+        - Every cycle of spiral model looks like waterfall model
+        - there is no testing in requirement and design phase
+
+12. Prototype Model
+        - blue print of the software
+        - Inititial requierements from the client  > Prototype > Customer > desing, coding, testing
+
+13. V-Model(VV Model, Verification and Validation model)
+        - in every phase, there is a testing
+
+    -VERIFICATION                              - VALIDATION
+        - BRS/CRS/URS  ---------------->    - USER ACCEPTANCE TESTING
+
+            - SRS                       - SYSTEM TESTING
+
+                - HLD               - INTEGRATION TESTING
+
+                    - LLD       - UNIT TESTING
+
+                        - CODING
+
+
+    - BRS/CRS/URS , Business requirements  given by the clients
+        - Business unity
+    - SRS, software classification requirements ( DFD diagrams )
+        - Project Manager
+    - HLD(HIGH LEVEL DESIGN), LLD(LOW LEVEL DESIGN)
+        - DESIGNERS, diagrams
+    Techniques in testing:
+        - review, walkthrough, inspection
+    Static testing techniques
+        - testing the project related documents
+
+    WHITE BOX TESTING
+        - is done by the developers himself
+        - includes Integration testing and unit testing
+        - knows what inside the box(code structures)
+    BLACK BOX TESTING
+        - is done by the testers
+        - don't need programming language in this test
+        - don't know what inside the box(code structure)
