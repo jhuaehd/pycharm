@@ -152,4 +152,14 @@ MODULE 1. SOFTWARES
         - conducts on documents to ensure correctness and completenes
         - requirement review, design review, code review, test plan review, test cases review
     WALKTHROUGH
-        -
+        - an informal review( no proper plan)
+        - author read the documents or code and discuss with the peers
+        - not pre-planned and can be done whenever required
+        - does not have minutes of the meet
+    INSPECTION
+        - most formal review type
+        - at least 3-8 people will sit in the meeting
+            1. reader
+            2. writer
+            3. moderator
+        - inspectio will have a proper schedule which will intimated via email to the concerned developer/tester.
