@@ -146,4 +146,10 @@ MODULE 1. SOFTWARES
         - initial investment is pricy, expensive, high cost
         - documentation is more
 
-dsadadsadasdasdsa
+    --------- REVIEW, WALKTHROUGH, INSPECTIO ---------
+
+    REVIEW
+        - conducts on documents to ensure correctness and completenes
+        - requirement review, design review, code review, test plan review, test cases review
+    WALKTHROUGH
+        -
