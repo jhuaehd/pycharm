@@ -165,20 +165,20 @@ MODULE 1. SOFTWARES
         - inspection will have a proper schedule which will intimated via email to the concerned developer/tester.
 -----------------------------------------------------------------------------------------------------------------------
     QA, QC, QE
-        QA
+        QA(QUALITY ASSURANCE)
             - process related
             - a design or focuses for building the quality
             - preventing defects
             - process oriented
             - for entire life cycle
-        QC
+        QC(QUALITY CONTROL)
             - the actual testing of the software
             - focuses on testing the quality
             - detecting defects
             - product oriented
             - for testing part in SDLC
-        QE
-            -
+        QE(QUALITY ENGINEERING)
+            - writing the code to test the software
 
         3P's
         P-eople --> QC(testers)
