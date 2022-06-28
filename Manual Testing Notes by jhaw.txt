@@ -162,4 +162,27 @@ MODULE 1. SOFTWARES
             1. reader
             2. writer
             3. moderator
-        - inspectio will have a proper schedule which will intimated via email to the concerned developer/tester.
+        - inspection will have a proper schedule which will intimated via email to the concerned developer/tester.
+-----------------------------------------------------------------------------------------------------------------------
+    QA, QC, QE
+        QA
+            - process related
+            - a design or focuses for building the quality
+            - preventing defects
+            - process oriented
+            - for entire life cycle
+        QC
+            - the actual testing of the software
+            - focuses on testing the quality
+            - detecting defects
+            - product oriented
+            - for testing part in SDLC
+        QE
+            -
+
+        3P's
+        P-eople --> QC(testers)
+            - focuses on testing the quality
+        P-rocess --> QA
+            - a design or focuses for building the quality
+        P-roduct
