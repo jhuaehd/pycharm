@@ -111,6 +111,12 @@ MODULE 1. SOFTWARES
         - review, walkthrough, inspection
     Static testing techniques
         - testing the project related documents
+        - review, walkthrough, inspection
+    DYNAMIC TESTING
+        - testing the actual software
+        - unit testing
+        - integration testing
+        - testing the software
 
     WHITE BOX TESTING
         - is done by the developers himself
@@ -120,3 +126,23 @@ MODULE 1. SOFTWARES
         - is done by the testers
         - don't need programming language in this test
         - don't know what inside the box(code structure)
+    VERIFICATION
+        - checks wether we are building the right product
+        - focus on documentation
+        - verification typically involves
+        - reviews, walkthrough, inspection
+        - related to static type of testing
+    VALIDATION
+        - checks the actual software
+        - checks whether we are building the product right
+        - takes place after verification si complete
+        - focus on software
+        - typically involves actual testing
+        - unit testing, integration testing, UAT testing(user acceptance)
+        - dynamic testing involve
+    ADVANTAGES OF V MODEL :
+        - testing is involve in every phase
+    DISADVANTAGES :
+        - initial investment is pricy, expensive, high cost
+        - documentation is more
+
