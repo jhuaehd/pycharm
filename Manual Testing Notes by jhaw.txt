@@ -186,3 +186,15 @@ MODULE 1. SOFTWARES
         P-rocess --> QA
             - a design or focuses for building the quality
         P-roduct
+
+    LEVELS OF SOFTWARE TESTING ---
+
+        UNIT TESTING
+            
+        INTEGRATION TESTING
+
+        SYSTEM TESTING
+
+        USER ACCEPTANCE TESTING
+
+aAA
