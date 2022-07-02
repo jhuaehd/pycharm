@@ -190,11 +190,18 @@ MODULE 1. SOFTWARES
     LEVELS OF SOFTWARE TESTING ---
 
         UNIT TESTING
-            
+            - single component of module of a software
+            - conducts single program or single module
+            - is white box testing technique
+            - conducted by the developers
+            - Unit testing techniques:
+                - Basis path testing
+                - Control structure testing
+                - conditional coverage
+                - loops coverage
+                - mutation testing
         INTEGRATION TESTING
 
         SYSTEM TESTING
 
         USER ACCEPTANCE TESTING
-
-aAAaa
