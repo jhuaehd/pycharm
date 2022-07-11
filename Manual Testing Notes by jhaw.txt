@@ -201,7 +201,37 @@ MODULE 1. SOFTWARES
                 - loops coverage
                 - mutation testing
         INTEGRATION TESTING
-
+                - checking the data flow of the system/modules
+                - a white box testing technique
+            2 types of integration testing
+                1. Incremental
+                    - incrementally adding the modules and testing the data flow between modueles
+                    - 3 approaches :
+                        - top down -> adding and testing the modules and ensure that the module added
+                                      is the child/relative from the previous module.
+                        - bottom up -> incrementally adding and testing modules and ensure that module
+                                       added is the parent of the previous module
+                        - sandwich -> combination of top-down and bottom-up approach
+                2. Non-incremental - adding the module in a single shot and test the dataflow between
+                                     modules
+                   ---> drawbacks :
+                        - might miss the data flow of some of the modules
+                        - in case the defect is found, it's hard to understand and trace the root
+                          cause of the defect
         SYSTEM TESTING
+            - testing overall functionality of the application with respective client requirements
+            - a kind of blackbox technique and conducted by the testing team
+            - focuses on below aspects
+                - GUI
+                - Functional testing
+                - Non-functional testing
+                - Usability testing
 
         USER ACCEPTANCE TESTING
+            - Alpha testing
+                - client's will do the testing in the development environment
+                - like in the company
+            - Beta testing
+                - do the testing and install in client's environment
+
+REGRESSION TESTING
